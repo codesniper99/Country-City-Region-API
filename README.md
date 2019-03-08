@@ -1,0 +1,2 @@
+# Country-City-Region-API
+Sometimes while making a form we need to have the user input his/her Country, city, region. Instead of filling it manually by a text field or so we would like a dropdown. One way is to manually write down each and every country, city and put them in a list. Well we can instead use API by https://battuta.medunes.net/ and use some JS and an API key to get our information. :)
